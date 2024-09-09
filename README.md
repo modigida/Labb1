@@ -6,7 +6,11 @@ This is my first assignment for my .NET studies at IT-Högskolan. Assignment sub
 
 Create a consoll application asking the user to enter a string. The given string searches for substrings with the same start- and endnumber. No letters are allowed in the substring.
 
-All substrings should be added and printed out.
+Output for example string "29535123p48723487597645723645":
+
+![Image showing output for the program](LabbOutput.png)
+
+All substrings should be added and printed out as a total sum. 
 
 ## Structure for my program
 
